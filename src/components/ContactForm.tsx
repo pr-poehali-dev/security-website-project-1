@@ -132,9 +132,7 @@ export default function ContactForm() {
                   </div>
                   <div>
                     <h3 className="font-heading text-lg font-semibold mb-2">Email</h3>
-                    <a href="mailto:info@security.ru" className="text-muted-foreground hover:text-accent transition-colors">
-                      info@security.ru
-                    </a>
+                    <a href="mailto:info@security.ru" className="text-muted-foreground hover:text-accent transition-colors">stragnik-plus@mail.ru</a>
                   </div>
                 </div>
               </div>
