@@ -26,9 +26,7 @@ export default function Footer() {
               </div>
               <div className="flex items-center gap-2">
                 <Icon name="Mail" size={18} />
-                <a href="mailto:info@security.ru" className="hover:text-white transition-colors">
-                  info@security.ru
-                </a>
+                <a href="mailto:info@security.ru" className="hover:text-white transition-colors">stragnik-plus@mail.ru</a>
               </div>
               <div className="flex items-center gap-2">
                 <Icon name="MapPin" size={18} />
