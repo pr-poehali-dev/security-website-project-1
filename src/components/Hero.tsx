@@ -43,7 +43,7 @@ export default function Hero({ onContactClick }: HeroProps) {
           
           <div className="mt-16 grid grid-cols-1 md:grid-cols-3 gap-8 max-w-3xl mx-auto">
             <div className="flex flex-col items-center">
-              <div className="text-4xl font-bold mb-2">500+</div>
+              <div className="text-4xl font-bold mb-2">1000+</div>
               <div className="text-white/80">Охраняемых объектов</div>
             </div>
             <div className="flex flex-col items-center">
