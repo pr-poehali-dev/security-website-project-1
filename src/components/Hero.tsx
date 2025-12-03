@@ -19,9 +19,7 @@ export default function Hero({ onContactClick }: HeroProps) {
           
           <h1 className="font-heading md:text-7xl font-bold mb-6 leading-tight mx-0 text-7xl">ЧОО Стражник+</h1>
           
-          <p className="text-xl md:text-2xl mb-10 text-white/90 max-w-2xl mx-auto">
-            Комплексные решения в сфере безопасности: пультовая и физическая охрана объектов, монтаж охранно-пожарной сигнализации
-          </p>
+          <p className="text-xl md:text-2xl mb-10 text-white/90 max-w-2xl mx-auto">Комплексные решения в сфере безопасности: пультовая и физическая охрана объектов, монтаж охранно-пожарной сигнализации и видеонаблюдение</p>
           
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Button 
