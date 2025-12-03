@@ -30,7 +30,7 @@ export default function Footer() {
               </div>
               <div className="flex items-center gap-2">
                 <Icon name="MapPin" size={18} />
-                <span>г. Москва, ул. Примерная, д. 1</span>
+                <span>г. Комсомольск-на-Амуре, ул. Кирова, д.76/2 офис 106</span>
               </div>
             </div>
           </div>
