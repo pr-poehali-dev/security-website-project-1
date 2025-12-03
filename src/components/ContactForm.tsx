@@ -120,9 +120,7 @@ export default function ContactForm() {
                   </div>
                   <div>
                     <h3 className="font-heading text-lg font-semibold mb-2">Телефон</h3>
-                    <a href="tel:+74951234567" className="text-muted-foreground hover:text-accent transition-colors">
-                      +7 (495) 123-45-67
-                    </a>
+                    <a href="tel:+74951234567" className="text-muted-foreground hover:text-accent transition-colors">+7 962 297 3175</a>
                   </div>
                 </div>
               </div>
