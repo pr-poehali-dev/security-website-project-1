@@ -154,7 +154,7 @@ export default function ContactForm() {
                   <Icon name="Clock" size={24} className="flex-shrink-0 mt-1" />
                   <div>
                     <h3 className="font-heading text-lg font-semibold mb-2">График работы</h3>
-                    <p className="text-white/90">г. Комсомольск-на-Амуре, ул. Кирова, д. 76/2 офис 106</p>
+                    <p className="text-white/90">С пн - пт с 09:00 - 18:00, свб и вс - выходные</p>
                   </div>
                 </div>
               </div>
