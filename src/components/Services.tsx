@@ -16,6 +16,11 @@ const services = [
     icon: 'Wifi',
     title: 'Монтаж ОПС',
     description: 'Установка и настройка охранно-пожарной сигнализации под ключ. Проектирование, монтаж и техническое обслуживание систем безопасности.'
+  },
+  {
+    icon: 'Video',
+    title: 'Видеонаблюдение',
+    description: 'Установка современных систем видеонаблюдения с возможностью удаленного просмотра. HD-камеры, запись и хранение архива, интеграция с охранными системами.'
   }
 ];
 
@@ -32,7 +37,7 @@ export default function Services() {
           </p>
         </div>
         
-        <div className="grid grid-cols-1 md:grid-cols-3 gap-8 max-w-6xl mx-auto">
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 max-w-7xl mx-auto">
           {services.map((service, index) => (
             <Card 
               key={index}
