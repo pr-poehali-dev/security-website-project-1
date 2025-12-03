@@ -10,7 +10,8 @@ export default function Footer() {
           <div>
             <div className="flex items-center gap-2 mb-4">
               <Icon name="Shield" size={28} />
-              <span className="font-heading text-2xl font-bold">SecurityPro</span>
+              <span className="font-heading text-2xl font-bold">ЧОО Стражник+
+</span>
             </div>
             <p className="text-white/80">
               Надежная защита вашего бизнеса с 2005 года. Лицензированная охранная организация.
