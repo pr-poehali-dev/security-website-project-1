@@ -41,9 +41,7 @@ export default function Advantages() {
           <h2 className="font-heading text-4xl md:text-5xl font-bold mb-4 text-primary">
             Наши преимущества
           </h2>
-          <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
-            Почему более 500 компаний выбирают нас для обеспечения своей безопасности
-          </p>
+          <p className="text-lg text-muted-foreground max-w-2xl mx-auto">Почему более 800 компаний выбирают нас для обеспечения своей безопасности</p>
         </div>
         
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 max-w-6xl mx-auto">
