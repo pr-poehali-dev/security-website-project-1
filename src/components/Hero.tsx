@@ -14,7 +14,7 @@ export default function Hero({ onContactClick }: HeroProps) {
         <div className="max-w-4xl mx-auto text-center animate-fade-in">
           <div className="inline-flex items-center gap-2 bg-white/10 backdrop-blur-sm px-4 py-2 rounded-full mb-6">
             <Icon name="Shield" size={20} />
-            <span className="text-sm font-medium">Профессиональная охрана с 2005 года</span>
+            <span className="text-sm font-medium">Профессиональные охранные услуги с 2005 года</span>
           </div>
           
           <h1 className="font-heading md:text-7xl font-bold mb-6 leading-tight mx-0 text-7xl">ЧОО Стражник+</h1>
