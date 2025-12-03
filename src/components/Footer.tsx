@@ -22,9 +22,7 @@ export default function Footer() {
             <div className="space-y-3 text-white/80">
               <div className="flex items-center gap-2">
                 <Icon name="Phone" size={18} />
-                <a href="tel:+74951234567" className="hover:text-white transition-colors">
-                  +7 (495) 123-45-67
-                </a>
+                <a href="tel:+74951234567" className="hover:text-white transition-colors">+7 962 297 3175</a>
               </div>
               <div className="flex items-center gap-2">
                 <Icon name="Mail" size={18} />
