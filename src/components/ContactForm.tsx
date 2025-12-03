@@ -144,9 +144,7 @@ export default function ContactForm() {
                   </div>
                   <div>
                     <h3 className="font-heading text-lg font-semibold mb-2">Адрес</h3>
-                    <p className="text-muted-foreground">
-                      г. Москва, ул. Примерная, д. 1, офис 100
-                    </p>
+                    <p className="text-muted-foreground">г. Комсомольск-на-Амуре, ул. Кирова, д. 76/2 офис 106</p>
                   </div>
                 </div>
               </div>
