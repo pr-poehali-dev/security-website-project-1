@@ -12,14 +12,6 @@ export default function Hero({ onContactClick }: HeroProps) {
       
       <div className="container mx-auto px-4 relative z-10">
         <div className="max-w-4xl mx-auto text-center animate-fade-in">
-          <div className="flex justify-center mb-8">
-            <img 
-              src="https://cdn.poehali.dev/files/f7c901b2-cd19-4d6d-a274-38b137e475dc.png" 
-              alt="ЧОО Стражник+ логотип" 
-              className="w-32 h-32 md:w-40 md:h-40 object-contain drop-shadow-2xl"
-            />
-          </div>
-          
           <div className="inline-flex items-center gap-2 bg-white/10 backdrop-blur-sm px-4 py-2 rounded-full mb-6">
             <Icon name="Shield" size={20} />
             <span className="text-sm font-medium">Профессиональные охранные услуги с 2005 года</span>
